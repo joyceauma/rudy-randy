@@ -1,2 +1,6 @@
 /venv
 /.vscode
+auma.py
+__pycache__
+secrets
+setuptools
